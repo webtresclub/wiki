@@ -1,10 +1,7 @@
 # Webtres - Community call #3
-
-[call anterior](https://docs.google.com/document/d/1pgLJhfSIGAbiySYez9Bb-QTqxT4heIY-jFfHssmi-u8/edit)
+_11/11/2022_
 
 Abre himno, problemas tecnicos, hay que arreglar.
-
-
 
 1. ​​Recopilar hitos (Soldados TQTS - Edu "tiene pinta de scam")
 2. Charla del 29/11 19arg en Tribu Tech Latam.

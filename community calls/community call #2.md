@@ -2,6 +2,8 @@
 
 
 # Minuta community call #2 (undefined)
+_25/09/2022_
+
 
 Embrace chaos uwu
 
